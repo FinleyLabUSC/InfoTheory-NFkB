@@ -1,5 +1,5 @@
 # InfoTheory-NFkB
-The Matlab scripts contained in this repo were utilized to generate the insights presented in the manuscript "A Systems and Computational Biology Perspective on Advancing CAR Therapy" by V. Tseruyan and S. D. Finley (BioRxiv preprint: https://doi.org/10.1101/2023.06.09.544433). The usage of the various script files is as follows:
+The Matlab scripts contained in this repo were utilized to generate the insights presented in the manuscript "Information-theoretic analysis of a model of CAR-4-1BB-mediated NFκB activation" by V. Tseruyan and S. D. Finley (BioRxiv preprint: https://doi.org/10.1101/2023.06.09.544433). The usage of the various script files is as follows:
 
 
 * SGBN_diagram.nwt/
